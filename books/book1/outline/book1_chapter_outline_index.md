@@ -80,8 +80,8 @@
 
 ## 章节详细文件规划
 
-- volume1_chapter_001_050_outline.md → 详见 `books/book1_helios_gate/outline/volume1_star_ocean_001_050_v2.md`
+- volume1_chapter_001_050_outline.md ✅ 完整章节级大纲
 - volume2_chapter_051_110_outline.md
 - volume3_chapter_111_170_outline.md
-- volume4_chapter_171_240_outline.md
-- volume5_chapter_241_300_outline.md
+- volume4_chapter_171_240_outline.md ✅ 已扩展至章节级大纲
+- volume5_chapter_241_300_outline.md ✅ 已补完终章内容
